@@ -39,7 +39,9 @@ You can change it's values using the following cli options:
     ```
     python pymodoro.py -p 50 -s 10 -l 30
     ```
+
 Use the _--help_ option to see all options.
+
 ![CLI Help](./cli-help.png)
 
 ___
